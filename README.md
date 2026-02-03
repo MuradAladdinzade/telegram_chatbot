@@ -6,7 +6,7 @@ The bot is designed to answer questions related to the **Azerbaijan Labour Code*
 ## What’s inside
 - Telegram bot integration
 - RAG pipeline (chunking → embeddings → retrieval → LLM answer)
-- Local/remote vector store (depending on your setup)
+- Local FAISS Vector DB
 
 ## Requirements
 - Python 3.9+ recommended
