@@ -11,7 +11,7 @@ The bot is designed to answer questions related to the **Azerbaijan Labour Code*
 ## Requirements
 - Python 3.9+ recommended
 - A Telegram Bot Token (from BotFather)
-- An OpenAI API key (or your configured LLM provider key)
+- An OpenAI API key
 
 Install dependencies:
 ```bash
